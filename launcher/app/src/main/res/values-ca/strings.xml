@@ -45,6 +45,7 @@
     <string name="dock_edit_pick_app">Ara tria l\'aplicació que hi vols posar i prem D\'acord. Enrere per triar una altra posició.</string>
     <string name="tile_add_to_dock">Afegeix al dock</string>
     <string name="tile_replace_in_dock">Substitueix per una altra aplicació</string>
+    <string name="tile_remove_from_dock">Elimina del dock</string>
     <string name="dock_edit_pick_place">Tria la posició del dock per a aquesta aplicació i prem D\'acord. Enrere per cancel·lar.</string>
     <string name="reorder">Reordena les aplicacions</string>
     <string name="tile_move">Mou</string>

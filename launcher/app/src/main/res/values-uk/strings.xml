@@ -99,6 +99,7 @@
     <string name="dock_edit_pick_app">Тепер виберіть застосунок для цього місця та натисніть OK. «Назад» — вибрати інше місце.</string>
     <string name="tile_add_to_dock">Додати в док</string>
     <string name="tile_replace_in_dock">Замінити іншим застосунком</string>
+    <string name="tile_remove_from_dock">Прибрати з дока</string>
     <string name="dock_edit_pick_place">Виберіть місце в доку для цього застосунку та натисніть OK. «Назад» — скасувати.</string>
     <string name="reorder">Упорядкувати застосунки</string>
     <string name="tile_move">Перемістити</string>

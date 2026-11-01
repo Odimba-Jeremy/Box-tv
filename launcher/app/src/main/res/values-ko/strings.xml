@@ -99,6 +99,7 @@
     <string name="dock_edit_pick_app">이제 그 자리에 넣을 앱을 고르고 OK를 누르세요. 뒤로 가기(←) 버튼을 누르면 다른 위치를 고릅니다.</string>
     <string name="tile_add_to_dock">독에 추가</string>
     <string name="tile_replace_in_dock">다른 앱으로 바꾸기</string>
+    <string name="tile_remove_from_dock">독에서 삭제</string>
     <string name="dock_edit_pick_place">이 앱을 넣을 독 위치를 고르고 OK를 누르세요. 뒤로 가기(←) 버튼을 누르면 취소됩니다.</string>
     <string name="reorder">앱 순서 바꾸기</string>
     <string name="tile_move">이동</string>

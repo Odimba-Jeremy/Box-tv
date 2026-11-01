@@ -83,6 +83,7 @@
     <string name="dock_edit_pick_app">Agora escueyi l\'aplicación que quies poner ende y calca OK. Atrás pa escoyer otru sitiu.</string>
     <string name="tile_add_to_dock">Amestar al dock</string>
     <string name="tile_replace_in_dock">Cambear por otra aplicación</string>
+    <string name="tile_remove_from_dock">Quitar del dock</string>
     <string name="dock_edit_pick_place">Escueyi\'l sitiu del dock pa esta aplicación y calca OK. Atrás pa encaboxar.</string>
     <string name="reorder">Reordenar aplicaciones</string>
     <string name="tile_move">Mover</string>

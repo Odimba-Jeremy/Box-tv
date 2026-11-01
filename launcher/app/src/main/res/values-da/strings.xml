@@ -68,6 +68,7 @@
     <string name="power_menu">Genstart…</string>
     <string name="tile_add_to_dock">Føj til dock</string>
     <string name="tile_replace_in_dock">Erstat med en anden app</string>
+    <string name="tile_remove_from_dock">Fjern fra dock</string>
     <string name="reorder">Flyt apps</string>
     <string name="tile_move">Flyt</string>
     <string name="app_library">App-bibliotek</string>
