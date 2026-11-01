@@ -82,6 +82,7 @@
     <string name="dock_edit_pick_app">Velg appen du vil plassere der, og trykk OK. Trykk Tilbake for å velge en annen plass.</string>
     <string name="tile_add_to_dock">Legg til i favorittraden</string>
     <string name="tile_replace_in_dock">Erstatt med en annen app</string>
+    <string name="tile_remove_from_dock">Fjern fra favorittraden</string>
     <string name="dock_edit_pick_place">Velg en plass i favorittraden for denne appen, og trykk OK. Trykk Tilbake for å avbryte.</string>
     <string name="reorder">Endre apprekkefølge</string>
     <string name="tile_move">Flytt</string>
